@@ -53,6 +53,9 @@ A list of articles, books, projects, etc... about frontend development
     https://gist.github.com/sokra/27b24881210b56bbaff7
     http://javascriptplayground.com/blog/2016/06/react-webpack-workflow-screencast/
 
+* Transpilation
+  * https://github.com/thejameskyle/babel-react-optimize
+
 * CSS
 
   * How does css modules work?
@@ -63,6 +66,10 @@ A list of articles, books, projects, etc... about frontend development
     peerDependencies: https://nodejs.org/en/blog/npm/peer-dependencies/
     https://docs.npmjs.com/
     https://www.jayway.com/2014/03/28/running-scripts-with-npm/
+  * yarn, a package manager by facebook
+    https://code.facebook.com/posts/1840075619545360/yarn-a-new-package-manager-for-javascript/
+    yarn cheatsheet:
+    https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc
 
 * Unit testing
   * http://codeutopia.net/h/mastering-javascript-unit-testing/
@@ -122,6 +129,8 @@ A list of articles, books, projects, etc... about frontend development
     * https://github.com/redfin/react-server
     * Speed up server side rendering
       https://www.youtube.com/watch?v=PnpfGy7q96U
+    * http://putaindecode.io/fr/articles/js/react/cote-serveur/
+    * https://github.com/zeit/next.js
   * React howto by pete hunt
     https://github.com/petehunt/react-howto
   * State handling
@@ -168,6 +177,7 @@ A list of articles, books, projects, etc... about frontend development
 
 * Progressive loading
     https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6#.e57nyr6bf
+    https://medium.com/react-weekly/code-chunking-with-webpack-a-pragmatic-approach-e17e8bcc6453
 
 * Frontend masters
     https://frontendmasters.com/courses/good-parts-javascript-web/
@@ -177,11 +187,17 @@ A list of articles, books, projects, etc... about frontend development
 
 * Vim
     * Vim test for running your tests:
-        https://github.com/janko-m/vim-test
+      https://github.com/janko-m/vim-test
     * Setup vim for javascript:
-        https://davidosomething.com/blog/vim-for-javascript/
+      https://davidosomething.com/blog/vim-for-javascript/
+    * vim snippets for React
+      https://github.com/epilande/vim-react-snippets
+
+* vim snippets for es6
+https://github.com/epilande/vim-es2015-snippets
 
 * Misc
   * How can translation keys string not be more than 80 characters?
     http://stackoverflow.com/questions/24562849/translating-multi-line-strings-in-javascript-with-django
     https://www.gnu.org/software/gettext/manual/html_node/Long-Lines.html
+  * A pool to measure the usage of tools used by the js community: http://stateofjs.com/
