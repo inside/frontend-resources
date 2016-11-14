@@ -152,6 +152,11 @@ A list of articles, books, projects, etc... about frontend development
     http://stackoverflow.com/questions/35734008/how-to-add-arguments-to-event-handler-in-es6-react-when-functions-are-bound-in-c
   * React native
     http://nativebase.io/
+  * Components
+    http://blueprintjs.com/
+    https://github.com/brillout/awesome-react-components
+  * A react faq
+    https://github.com/timarney/react-faq
 
 * Express: learn how it works http://expressjs.com/
 
