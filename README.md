@@ -33,6 +33,8 @@ A list of articles, books, projects, etc... about frontend development
     http://marmelab.com/blog/2015/12/17/react-directory-structure.html
     https://github.com/marmelab/javascript-boilerplate
     https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346
+  * A Dummy’s Guide to Redux and Thunk in React
+    https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3#.hk9mhcf19
 
 * App Starters
 
@@ -183,6 +185,7 @@ A list of articles, books, projects, etc... about frontend development
 * Progressive loading
     https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6#.e57nyr6bf
     https://medium.com/react-weekly/code-chunking-with-webpack-a-pragmatic-approach-e17e8bcc6453
+    http://brotzky.co/blog/a-beginners-step-by-step-guide-to-code-splitting-with-webpack-2-and-react-router/?utm_source=reactnl&utm_medium=email
 
 * Frontend masters
     https://frontendmasters.com/courses/good-parts-javascript-web/
