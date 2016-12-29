@@ -59,6 +59,9 @@ A list of articles, books, projects, etc... about frontend development
 * CSS
 
   * How does css modules work?
+  * https://www.sitepoint.com/how-and-why-you-should-inline-your-critical-css/
+  * https://css-tricks.com/snippets/css/complete-guide-grid/
+  * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 * Node modules
 
@@ -142,6 +145,9 @@ A list of articles, books, projects, etc... about frontend development
     https://github.com/gaearon/react-hot-boilerplate
   * React patterns
     https://github.com/krasimir/react-in-patterns
+    https://blog.risingstack.com/react-js-best-practices-for-2016/
+    https://www.reactenlightenment.com
+    https://medium.com/@marcacyr/domain-architecture-software-engineering-23a0510ebdf
   * Top 10 react articles in july 2016
     https://medium.mybridge.co/top-10-react-js-articles-for-the-past-month-v-july-9840fd0ddb0#.ofa9pxx8h
   * http://devtalk.com/learn-react-js/
@@ -155,8 +161,11 @@ A list of articles, books, projects, etc... about frontend development
   * Components
     http://blueprintjs.com/
     https://github.com/brillout/awesome-react-components
+    http://jxnblk.com/rebass
   * A react faq
     https://github.com/timarney/react-faq
+  * React fiber
+    https://github.com/acdlite/react-fiber-architecture
 
 * Express: learn how it works http://expressjs.com/
 
@@ -173,6 +182,8 @@ A list of articles, books, projects, etc... about frontend development
     https://gist.github.com/paulirish/5d52fb081b3570c81e3a
     see what css property triggers what:
     https://csstriggers.com/
+    https://jakearchibald.com/2016/fun-hacks-faster-content/
+    https://jakearchibald.github.io/isserviceworkerready/
 
 * Immutable data
     https://github.com/markerikson/redux-ecosystem-links/blob/master/immutable-data.md
@@ -187,21 +198,25 @@ A list of articles, books, projects, etc... about frontend development
 * Frontend masters
     https://frontendmasters.com/courses/good-parts-javascript-web/
 
+* Error handling
+  * https://www.sitepoint.com/logging-errors-client-side-apps/
+
 * Angular
     https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c
 
 * Vim
-    * Vim test for running your tests:
-      https://github.com/janko-m/vim-test
-    * Setup vim for javascript:
-      https://davidosomething.com/blog/vim-for-javascript/
-    * vim snippets for React
-      https://github.com/epilande/vim-react-snippets
 
-* vim snippets for es6
-https://github.com/epilande/vim-es2015-snippets
+  * Vim test for running your tests:
+    https://github.com/janko-m/vim-test
+  * Setup vim for javascript:
+    https://davidosomething.com/blog/vim-for-javascript/
+  * vim snippets for React
+    https://github.com/epilande/vim-react-snippets
+  * vim snippets for es6
+    https://github.com/epilande/vim-es2015-snippets
 
 * Misc
+
   * How can translation keys string not be more than 80 characters?
     http://stackoverflow.com/questions/24562849/translating-multi-line-strings-in-javascript-with-django
     https://www.gnu.org/software/gettext/manual/html_node/Long-Lines.html
