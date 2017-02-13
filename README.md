@@ -224,3 +224,10 @@ A list of articles, books, projects, etc... about frontend development
     http://stackoverflow.com/questions/24562849/translating-multi-line-strings-in-javascript-with-django
     https://www.gnu.org/software/gettext/manual/html_node/Long-Lines.html
   * A pool to measure the usage of tools used by the js community: http://stateofjs.com/
+
+* DDD
+  * Eric Evans
+    https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
+
+  * Three Rules For Structuring (Redux) Applications
+    https://jaysoo.ca/2016/02/28/organizing-redux-application/
