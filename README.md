@@ -54,6 +54,9 @@ A list of articles, books, projects, etc... about frontend development
     What's new in webpack 2:
     https://gist.github.com/sokra/27b24881210b56bbaff7
     http://javascriptplayground.com/blog/2016/06/react-webpack-workflow-screencast/
+  * https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a
+    1. Install DefinePlugin, DedupePlugin, UglifyJsPlugin, AggressiveMergingPlugin
+    2. Serve gzipped file in production
 
 * Transpilation
   * https://github.com/thejameskyle/babel-react-optimize
@@ -168,6 +171,8 @@ A list of articles, books, projects, etc... about frontend development
     https://github.com/timarney/react-faq
   * React fiber
     https://github.com/acdlite/react-fiber-architecture
+  * React performance tools
+    https://facebook.github.io/react/docs/perf.html
 
 * Express: learn how it works http://expressjs.com/
 
