@@ -35,6 +35,7 @@ A list of articles, books, projects, etc... about frontend development
     https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346
   * A Dummy’s Guide to Redux and Thunk in React
     https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3#.hk9mhcf19
+  * https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1
 
 * App Starters
 
