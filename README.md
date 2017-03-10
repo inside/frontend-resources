@@ -237,3 +237,7 @@ A list of articles, books, projects, etc... about frontend development
 
   * Three Rules For Structuring (Redux) Applications
     https://jaysoo.ca/2016/02/28/organizing-redux-application/
+
+* Metrics
+  * https://github.com/rangle/redux-beacon
+  * https://github.com/nfl/react-metrics
