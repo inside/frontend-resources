@@ -240,4 +240,6 @@ A list of articles, books, projects, etc... about frontend development
 
 * Metrics
   * https://github.com/rangle/redux-beacon
+  * http://engineering.blogfoster.com/redux-for-better-in-app-analytics/
   * https://github.com/nfl/react-metrics
+  * https://github.com/yahoo/react-i13n
