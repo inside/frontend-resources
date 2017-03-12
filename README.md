@@ -89,6 +89,7 @@ A list of articles, books, projects, etc... about frontend development
     https://github.com/douglasduteil/isparta
     (Its intention is to be used with karma and karma-coverage, which
     provides code coverage reports using istanbul.)
+  * https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12
 
 * Type systems
 
