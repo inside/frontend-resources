@@ -14,6 +14,7 @@ A list of articles, books, projects, etc... about frontend development
 
 * Redux ressources
 
+  * http://devguides.io/redux/
   * https://css-tricks.com/learning-react-redux/
   * https://egghead.io/courses/building-react-applications-with-idiomatic-redux
   * https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/
