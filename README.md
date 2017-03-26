@@ -14,6 +14,7 @@ A list of articles, books, projects, etc... about frontend development
 
 * Redux ressources
 
+  * https://robwise.github.io/blog/using-flow-annotations-in-your-redux-reducers
   * http://devguides.io/redux/
   * https://css-tricks.com/learning-react-redux/
   * https://egghead.io/courses/building-react-applications-with-idiomatic-redux
