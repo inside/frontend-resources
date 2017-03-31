@@ -247,3 +247,7 @@ A list of articles, books, projects, etc... about frontend development
   * http://engineering.blogfoster.com/redux-for-better-in-app-analytics/
   * https://github.com/nfl/react-metrics
   * https://github.com/yahoo/react-i13n
+  * https://github.com/rangle/redux-segment
+
+* I18n internationalization
+  * https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
