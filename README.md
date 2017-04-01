@@ -251,3 +251,8 @@ A list of articles, books, projects, etc... about frontend development
 
 * I18n internationalization
   * https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
+
+* UI frameworks / tookits
+  * http://www.material-ui.com
+  * http://blueprintjs.com
+  * https://ant.design/
