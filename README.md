@@ -254,5 +254,19 @@ A list of articles, books, projects, etc... about frontend development
 
 * UI frameworks / tookits
   * http://www.material-ui.com
+    * Use it with https://www.npmjs.com/package/formsy-material-ui
   * http://blueprintjs.com
   * https://ant.design/
+  * http://elemental-ui.com/
+  * http://nikgraf.github.io/belle/#/?_k=gf9j9f
+  * https://react-bootstrap.github.io/
+  * https://grommet.github.io/
+  * http://amazeui.org/react/
+  * https://react.foundation/
+  * https://github.com/brillout/awesome-react-components#ui-frameworks
+  * https://devarchy.com/react-components
+  * https://reactstrap.github.io/
+  * https://github.com/Semantic-Org/Semantic-UI-React
+  * https://cxjs.io/v/master/docs/intro/about
+  * http://webix.com/
+  * https://github.com/fex-team/fit
