@@ -273,3 +273,7 @@ A list of articles, books, projects, etc... about frontend development
 
 * GraphQL
   * https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
+
+* Curated items
+  * https://github.com/facebook/react/wiki
+  * https://codeutopia.net/blog/2017/04/03/230-curated-resources-and-tools-for-building-apps-with-react-js/
