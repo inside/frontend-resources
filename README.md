@@ -270,3 +270,6 @@ A list of articles, books, projects, etc... about frontend development
   * https://cxjs.io/v/master/docs/intro/about
   * http://webix.com/
   * https://github.com/fex-team/fit
+
+* GraphQL
+  * https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
