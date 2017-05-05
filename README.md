@@ -143,6 +143,10 @@ A list of articles, books, projects, etc... about frontend development
       https://www.youtube.com/watch?v=PnpfGy7q96U
     * http://putaindecode.io/fr/articles/js/react/cote-serveur/
     * https://github.com/zeit/next.js
+    * Faster React SSR With Rapscallion
+      https://formidable.com/blog/2017/introducing-rapscallion/
+    * A service for server-side rendering your JavaScript views
+      https://github.com/airbnb/hypernova
   * React howto by pete hunt
     https://github.com/petehunt/react-howto
   * State handling
