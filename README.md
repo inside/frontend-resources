@@ -11,6 +11,7 @@ A list of articles, books, projects, etc... about frontend development
     * High performance web sites (oreilly)
     * Even faster web sites (oreilly)
     * Browser networking (oreilly)
+    * https://developers.google.com/web/tools/lighthouse
 
 * Redux ressources
 
@@ -141,6 +142,10 @@ A list of articles, books, projects, etc... about frontend development
     * https://github.com/redfin/react-server
     * Speed up server side rendering
       https://www.youtube.com/watch?v=PnpfGy7q96U
+      https://github.com/alt-j/fast-react-server
+      https://github.com/alt-j/fast-react-render
+      https://babeljs.io/docs/plugins/transform-react-inline-elements/
+      https://github.com/facebook/react/issues/6420
     * http://putaindecode.io/fr/articles/js/react/cote-serveur/
     * https://github.com/zeit/next.js
     * Faster React SSR With Rapscallion
@@ -179,8 +184,10 @@ A list of articles, books, projects, etc... about frontend development
     https://github.com/timarney/react-faq
   * React fiber
     https://github.com/acdlite/react-fiber-architecture
-  * React performance tools
+  * React performance tools and articles
     https://facebook.github.io/react/docs/perf.html
+    https://github.com/crysislinux/chrome-react-perf
+    https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3
 
 * Express: learn how it works http://expressjs.com/
 
