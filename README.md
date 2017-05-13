@@ -288,3 +288,7 @@ A list of articles, books, projects, etc... about frontend development
 * Curated items
   * https://github.com/facebook/react/wiki
   * https://codeutopia.net/blog/2017/04/03/230-curated-resources-and-tools-for-building-apps-with-react-js/
+
+* Debugging
+  * https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+  * http://stackoverflow.com/questions/1911015/how-do-i-debug-node-js-applications/16512303#16512303
