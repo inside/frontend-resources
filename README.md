@@ -217,6 +217,8 @@ A list of articles, books, projects, etc... about frontend development
     https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6#.e57nyr6bf
     https://medium.com/react-weekly/code-chunking-with-webpack-a-pragmatic-approach-e17e8bcc6453
     http://brotzky.co/blog/a-beginners-step-by-step-guide-to-code-splitting-with-webpack-2-and-react-router/?utm_source=reactnl&utm_medium=email
+    https://github.com/thejameskyle/react-loadable
+    https://github.com/aweary/react-perimeter
 
 * Frontend masters
     https://frontendmasters.com/courses/good-parts-javascript-web/
