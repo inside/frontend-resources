@@ -13,6 +13,9 @@ A list of articles, books, projects, etc... about frontend development
     * Browser networking (oreilly)
     * https://developers.google.com/web/tools/lighthouse
 
+  * Javascript cheatsheet
+    https://github.com/mbeaudru/modern-js-cheatsheet
+
 * Redux ressources
 
   * https://robwise.github.io/blog/using-flow-annotations-in-your-redux-reducers
