@@ -155,6 +155,8 @@ A list of articles, books, projects, etc... about frontend development
       https://formidable.com/blog/2017/introducing-rapscallion/
     * A service for server-side rendering your JavaScript views
       https://github.com/airbnb/hypernova
+    * Scaling React Server-Side Rendering
+      https://arkwright.github.io/scaling-react-server-side-rendering.html
   * React howto by pete hunt
     https://github.com/petehunt/react-howto
   * State handling
